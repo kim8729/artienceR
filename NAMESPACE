@@ -1,2 +1,5 @@
 exportPattern("^[[:alpha:]]+")
-import googleAnalyticsR
+export(googleAnalyticsR)
+export(digest)
+export(shiny)
+
